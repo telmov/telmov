@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hola 👋, Soy Telmo Pereiro</h1>
-<h3 align="center">Soy desarrollador web, actualmente especializado en WordPress y WooCommerce.</h3>
+<h1>Hola 👋, Soy Telmo Pereiro</h1>
+<h3>Soy desarrollador web, actualmente especializado en WordPress y WooCommerce.</h3>
+<br>
 
 🔭 Actualmente trabajando en Frankie The King
 
