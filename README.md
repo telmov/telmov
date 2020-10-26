@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hola 👋, Soy Telmo Pereiro</h1>
 <h3 align="center">Soy desarrollador web, actualmente especializado en WordPress y WooCommerce.</h3>
-<h4 align="center">👨‍💻 [https://telmopereiro.com](https://telmopereiro.com)</h4>
 
 🔭 Actualmente trabajando en Frankie The King
 
